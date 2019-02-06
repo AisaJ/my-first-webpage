@@ -1,0 +1,21 @@
+body{
+  background-color: #e29f27;
+}
+h1{
+  color: purple;
+  text-align: center;
+  font-family: fantasy;
+}
+h2{
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+  font-size: 4;
+}
+ul{
+  line-height: 40px;
+  font-style: oblique;
+}
